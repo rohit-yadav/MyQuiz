@@ -1,0 +1,190 @@
+<resources>
+    <!-- Activity name display -->
+    <string name="app_name">My Quiz</string>
+    <string name="quiz_activity">Quiz</string>
+    <string name="results_activity">Results</string>
+
+    <!-- Main Activity -->
+    <!-- Introduction message -->
+    <string name="desc">Background Image.</string>
+
+    <string name="introduction">Check your General Knowledge.</string>
+
+    <!-- User's name [CHAR LIMIT=20] -->
+    <string name="name">Your Name</string>
+
+    <!-- Start Quiz Button -->
+    <string name="start">Start Quiz!</string>
+
+    <!-- Display Message Activity -->
+    <string name="namePlaceholder">Name: Rohit Yadav</string>
+
+    <!-- Question No count 1-->
+    <string name="questionCountOne">Question No. 1</string>
+
+    <!-- Question one -->
+    <string name="questionOne">Who is the current Prime minister of India?</string>
+
+    <!-- Question one option one -->
+    <string name="questionOneOptionOne">Narendra Modi</string>
+
+    <!-- Question one option two -->
+    <string name="questionOneOptionTwo">Manmohan Singh</string>
+
+    <!-- Question one option three -->
+    <string name="questionOneOptionThree">Atal Bihari Vajpayee</string>
+
+    <!-- Question one option four -->
+    <string name="questionOneOptionFour">Rahul Gandhi</string>
+
+
+    <!-- Question No count 2-->
+    <string name="questionCountTwo">Question No. 2</string>
+
+    <!-- Question one -->
+    <string name="questionTwo">Who is the current Chief minister of Odisha?</string>
+
+    <!-- Question one option one -->
+    <string name="questionTwoOptionOne">Biju Patnaik</string>
+
+    <!-- Question one option two -->
+    <string name="questionTwoOptionTwo">Janaki Ballabh Patnaik</string>
+
+    <!-- Question one option three -->
+    <string name="questionTwoOptionThree">Naveen Patnaik</string>
+
+    <!-- Question one option four -->
+    <string name="questionTwoOptionFour">Hemananda Biswal</string>
+
+
+    <!-- Question No count 3-->
+    <string name="questionCountThree">Question No. 3</string>
+
+    <!-- Question one -->
+    <string name="questionThree">Who is the current Finance minister of India?</string>
+
+    <!-- Question one option one -->
+    <string name="questionThreeOptionOne">Morarji Desai</string>
+
+    <!-- Question one option two -->
+    <string name="questionThreeOptionTwo">Arun Jaitley</string>
+
+    <!-- Question one option three -->
+    <string name="questionThreeOptionThree">Pranab Mukherjee</string>
+
+    <!-- Question one option four -->
+    <string name="questionThreeOptionFour">Jawaharlal Nehru</string>
+
+
+    <!-- Question No count 4-->
+    <string name="questionCountFour">Question No. 4</string>
+
+    <!-- Question Four -->
+    <string name="questionFour">Who is the current Defence minister of India?</string>
+
+    <!-- Question one option one -->
+    <string name="questionFourOptionOne">Manohar Parrikar</string>
+
+    <!-- Question one option two -->
+    <string name="questionFourOptionTwo">A.K. Antony</string>
+
+    <!-- Question one option three -->
+    <string name="questionFourOptionThree">Mulayam Singh Yadav</string>
+
+    <!-- Question one option four -->
+    <string name="questionFourOptionFour">Nirmala Sitharaman</string>
+
+
+    <!-- Question No count 5-->
+    <string name="questionCountFive">Question No. 5</string>
+
+    <!-- Question Five -->
+    <string name="questionFive">Name the national animal of India?</string>
+
+    <!-- Question Five Hint [CHAR LIMIT=20] -->
+    <string name="questionFiveHint">Type In The Answer (TITA)</string>
+
+
+    <!-- Question No count 6-->
+    <string name="questionCountSix">Question No. 6</string>
+
+    <!-- Question Four -->
+    <string name="questionSix">Select the states of India. Select all that applies.</string>
+
+    <!-- Question one option one -->
+    <string name="questionSixOptionOne">Odisha</string>
+
+    <!-- Question one option two -->
+    <string name="questionSixOptionTwo">Bihar</string>
+
+    <!-- Question one option three -->
+    <string name="questionSixOptionThree">Andhra Pradesh</string>
+
+    <!-- Question one option four -->
+    <string name="questionSixOptionFour">Tamil Nadu</string>
+
+
+    <!-- Button to submit -->
+    <string name="submit">submit</string>
+
+
+    <!-- Result Activity -->
+    <!--Congo message-->
+    <string name="resultCongo">Congratulation!</string>
+
+    <!-- Display user name field in result -->
+    <string name="resultUserName">User Name:&#160;</string>
+
+    <!-- Display the name -->
+    <string name="resultPlaceholderName">Place Holder</string>
+
+    <!-- Display correct answer count field-->
+    <string name="resultCorrectAnswer">Correct Answers:&#160;</string>
+
+    <!-- Display the count of correct answers -->
+    <string name="resultPlaceholderCorrectAnswers">Place Holder</string>
+
+    <!-- Display the wrong/skipped response field -->
+    <string name="resultWrongAnswer">Wrong/Skipped:&#160;</string>
+
+    <!-- Display the count of the wrong/skipped response -->
+    <string name="resultPlaceholderWrongAnswers">Place Holder</string>
+
+    <!-- Display the Score field -->
+    <string name="resultScore">Score:&#160;</string>
+
+    <!-- Display the Score -->
+    <string name="resultPlaceholderScore">Place Holder</string>
+
+    <!-- Display the Total field -->
+    <string name="resultTotal">Total:&#160;</string>
+
+    <!-- Display the Toatal questions -->
+    <string name="resultPlaceholderTotal">6</string>
+
+
+    <!-- Start the test again -->
+    <string name="startAgain">Retake The Quiz</string>
+
+
+    <!-- Java file strings -->
+
+    <!-- In Main Activity file -->
+    <!-- For toast message -->
+    <string name="toastMessageForNoName">No name provided</string>
+
+
+    <!-- In Display Message Activity -->
+    <!-- Display user name without name provided -->
+    <string name="noUserName">Name:&#160;(No&#160;Name)"</string>
+
+    <!-- Display with user name -->
+    <string name="withUserName">Name:&#160;</string>
+
+    <!-- Result in toast message -->
+    <string name="toastMessagePart1">Your Scored:&#160;</string>
+    <string name="toastMessagePart2">&#160;Out of 6.</string>
+
+
+
+</resources>

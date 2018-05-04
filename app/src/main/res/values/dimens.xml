@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Display Message Activity -->
+    <!-- Text size of use Name -->
+    <dimen name="userNameSize">24sp</dimen>
+    <!-- Text size of question count -->
+    <dimen name="questionCountSize">16sp</dimen>
+    <!-- Text size of the question -->
+    <dimen name="questionTSize">20sp</dimen>
+    <!-- Options size -->
+    <dimen name="radioButtonSize">16sp</dimen>
+    <!-- Edit Text Size (User Input) -->
+    <dimen name="userAnswer">20sp</dimen>
+
+    <!-- Check Box options text size -->
+    <dimen name="checkBoxOptions">20sp</dimen>
+    <dimen name="radioGroupSize">24sp</dimen>
+
+    <!-- Result Display Activity -->
+    <!-- Greeting message text -->
+    <dimen name="greetingSize">40sp</dimen>
+    <!-- Result other displays -->
+    <dimen name="resultOtherDisplaySize">24sp</dimen>
+
+
+
+    <!-- Demo -->
+    <dimen name="optionsSize1">16sp</dimen>
+    <dimen name="optionsSize2">24sp</dimen>
+
+</resources>
